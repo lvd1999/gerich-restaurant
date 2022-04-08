@@ -16,7 +16,7 @@
 ### 🔧 Built With
 
 * [React](https://reactjs.org/)
-* [Node.js](https://nodejs.org/en/)0
+* [Node.js](https://nodejs.org/en/)
 * CSS
 
 
